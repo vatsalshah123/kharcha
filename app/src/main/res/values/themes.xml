@@ -1,0 +1,4 @@
+<resources>
+    <color name="ic_bg">#00796B</color>
+    <style name="Theme.Kharcha" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
